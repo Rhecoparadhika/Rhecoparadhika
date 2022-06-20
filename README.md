@@ -20,8 +20,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-347AB4?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-F05032?style=flat-square&logo=R&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=SQL&logoColor=white" />
-  <img alt=JavaScript" src="https://img.shields.io/badge/-Javascript-1a73e8?style=flat-square&logo=Javascript&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-AAC148?style=flat-square&logo=PHP&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
 </p>
 
 <h2 id="Githubstats"><i class="fab fa-stats"></i> Github Stats</h2>
